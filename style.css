@@ -7,7 +7,7 @@
     text-decoration: none;
 }
 .max-width{
-    max-width: 1300px;
+    max-width: 1920px;
     padding: 0 80px;
     margin: auto;
     font-family: Montserrat, sans-serif;
@@ -76,7 +76,7 @@
     height: 100vh;
     color: black;
     min-height: 500px;
-    max-height: 720px;
+    max-height: 1920px;
     background-size: cover;
     background-attachment: fixed;
 }
