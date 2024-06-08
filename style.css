@@ -76,7 +76,7 @@
     height: 100vh;
     color: black;
     min-height: 500px;
-    max-height: 1920px;
+    max-height: 720px;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -465,6 +465,9 @@ footer span a:hover{
 
 /* Responsive Media Query */
 @media (max-width: 1920px){
+    .home .max-width{
+        margin-left: 0px;
+    }
     .menu-btn{
         display: none;
         z-index: 999;
